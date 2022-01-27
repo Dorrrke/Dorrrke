@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Header](https://github.com/Dorrrke/Dorrrke/blob/main/assets/158531094190.jpg)
+![Header](https://github.com/Dorrrke/Dorrrke/blob/main/assets/1616538729_32-p-fon-anime-noch-39.jpg)
+
+## I'm beginner Software Engeneer
 
 <!--
 **Dorrrke/Dorrrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+hk
