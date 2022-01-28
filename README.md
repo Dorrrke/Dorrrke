@@ -3,8 +3,11 @@
 
 ## I'm beginner Software Engineer
 
-### Languages and Tools
-|[Kotlin](https://img.shields.io/badge/-Kotlin-30d5c8?style=for-the-badge&logo=appveyor)
+### Languages
+![Kotlin](https://img.shields.io/badge/-Kotlin-0E2336?style=for-the-badge&logo=Kotlin)
+![Java](https://img.shields.io/badge/-Java-0E2336?style=for-the-badge&logo=Java)
+![C++](https://img.shields.io/badge/-C++-0E2336?style=for-the-badge&logo=C%2b%2b)
+![Sql](https://img.shields.io/badge/-SQL-0E2336?style=for-the-badge&logo=mysql)
 
 
 <!-- (https://img.shields.io/badge/-Kotlin-#30d5c8?
