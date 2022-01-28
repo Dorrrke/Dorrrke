@@ -4,8 +4,11 @@
 ## I'm beginner Software Engineer
 
 ### Languages and Tools
-|[Kotlin](https://img.shields.io/badge/-Kotlin-#30d5c8?
-style=for-the-badge&logo=appveyor)
+|[Kotlin](https://img.shields.io/badge/-Kotlin-30d5c8?style=for-the-badge&logo=appveyor)
+
+
+<!-- (https://img.shields.io/badge/-Kotlin-#30d5c8?
+style=for-the-badge&logo=appveyor) -->
 <!--
 **Dorrrke/Dorrrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
