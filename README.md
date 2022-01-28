@@ -1,8 +1,11 @@
 ### Hi there 👋
 ![Header](https://github.com/Dorrrke/Dorrrke/blob/main/assets/1616538729_32-p-fon-anime-noch-39.jpg)
 
-## I'm beginner Software Engeneer
+## I'm beginner Software Engineer
 
+### Languages and Tools
+|[Kotlin](https://img.shields.io/badge/-Kotlin-#30d5c8?
+style=for-the-badge&logo=appveyor)
 <!--
 **Dorrrke/Dorrrke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hk
+
