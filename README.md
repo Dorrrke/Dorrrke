@@ -7,7 +7,7 @@
 ![Java](https://img.shields.io/badge/-Java-0E2336?style=for-the-badge&logo=Java)
 ![C++](https://img.shields.io/badge/-C++-0E2336?style=for-the-badge&logo=C%2b%2b)
 ![Sql](https://img.shields.io/badge/-SQL-0E2336?style=for-the-badge&logo=mysql)
-![Go](https://img.shields.io/badge/-Golang-0E2336?style=for-the-badge&logo=Golang)
+![Go](https://img.shields.io/badge/-Go-0E2336?style=for-the-badge&logo=Go)
 
 ### Social Networks 
 [![Telegram](https://img.shields.io/badge/-Telegram-0E2336?style=for-the-badge&logo=telegram)](https://t.me/Dorrrke)
