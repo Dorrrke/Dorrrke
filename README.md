@@ -6,9 +6,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <a href="https://t.me/Dorrrke">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/dorrrke">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
+    <img src="https://img.shields.io/badge/Vk-blue?style=flat&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
 </div>
