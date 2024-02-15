@@ -12,3 +12,4 @@
     <img src="https://img.shields.io/badge/Vk-blue?style=flat&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Dorrrke&style=flat-square&color=blue" alt=""/>
