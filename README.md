@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://interpine.nz/wp-content/uploads/2018/10/divider-1-1.jpg"/>
+  <img src="[https://interpine.nz/wp-content/uploads/2018/10/divider-1-1.jpg](https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0")"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
